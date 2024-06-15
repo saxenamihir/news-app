@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "By Chris Lau and <a href=\"/profiles/andrew-raine\">Andrew Raine</a>, CNN",
+      "title": "Live updates: Israel-Hamas war, Gaza airstrikes, IDF offensive - CNN",
+      "description": "After a week-long truce, Israel is expanding its operations against Hamas, which have until now been concentrated in northern Gaza. The IDF dropped leaflets in a southern city, telling people to evacuate. Follow for live updates.",
+      "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-12-2-23/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/231201003234-01-idf-tanks-gaza-border-113023-file-super-tease.jpg",
+      "publishedAt": "2023-12-02T12:31:00Z",
+      "content": "Pope Francis spoke on the phone with Israeli President Isaac Herzog about the Israel-Hamas war in late October.\r\nThe conversation between the pair was described as a \"fraught phone call,\" according t… [+1674 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ella Nilsen",
+      "title": "US announces rule to slash powerful planet-warming gas by nearly 80% - CNN",
+      "description": "The Biden administration has finalized a rule to cut the US fossil fuel industry’s emissions of methane, a powerful planet-warming gas.",
+      "url": "https://www.cnn.com/2023/12/02/climate/cop28-methane-announcement-climate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231201162549-01-permian-basin-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-12-02T12:28:00Z",
+      "content": "The Biden administration has finalized a rule to significantly cut the US oil and gas industrys emissions of methane, a powerful planet-warming gas that scientists and climate advocacy groups have pr… [+6619 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Munich flights, long-distance trains cancelled due to snow - Reuters",
+      "description": "Long-distance trains and hundreds of flights in and out of the German city of Munich were cancelled on Saturday because of heavy snowfall, according to statements by Deutsche Bahn and Munich Airport.",
+      "url": "https://www.reuters.com/world/europe/munich-flights-long-distance-trains-cancelled-due-snow-2023-12-02/",
+      "urlToImage": "https://www.reuters.com/resizer/9sMUCcar1lxqBiz0Ys1VVnJwnME=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KHMBGNQR6BJIBDZVPP3VY5UAME.jpg",
+      "publishedAt": "2023-12-02T10:23:00Z",
+      "content": "Dec 2 (Reuters) - Long-distance trains and hundreds of flights in and out of the German city of Munich were cancelled on Saturday because of heavy snowfall, according to statements by Deutsche Bahn a… [+500 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Noor Al-Sibai",
+      "title": "Twitter CEO's Internal Email About Elon Musk's Bizarre Interview Leaks - Futurism",
+      "description": "Linda Yaccarino, the CEO of the site formerly known as Twitter, has reached new levels of yes-manning for Elon Musk in a leaked memo.",
+      "url": "https://futurism.com/the-byte/linda-yaccarino-email-leak",
+      "urlToImage": "https://wp-assets.futurism.com/2023/12/linda-yaccarino-email-leak.jpg",
+      "publishedAt": "2023-12-02T10:04:11Z",
+      "content": "\"He shared an unmatched and completely unvarnished perspective and vision for the future.\"\r\nYessir\r\nLinda Yaccarino, the punching bag Elon Musk hired to be CEO of X-formerly-Twitter, has reached new … [+2330 chars]"
+    }
+  ]
+}
